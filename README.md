@@ -4,7 +4,7 @@ Question 2: Perform 5 data visualization tasks on the student performance datase
 5 different visualizations). Explain what kind analysis has become easier with each of the visualizations.
 Create the folder structure for this question similar to question 1. (15 points).
 
-The 5 data visualization tasks on student performance dataset has been performed.
+The 5 data visualization tasks on student performance dataset has been performed and below are the brief analysis of each plot diagram.
 1. visualization Gender vs Scores
   Here we can compare and analyze the data between Gender and Scores as we can see scores for female and male, the math score for female is less compared to male and reading and writing scores are higher when compared to male scores.
   
