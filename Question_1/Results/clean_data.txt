@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  clean1_data$Weight..Pounds. and clean1_data$Grip
+t = 22.642, df = 9, p-value = 3.032e-09
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+  95.31933 116.48067
+sample estimates:
+mean difference 
+          105.9 
+
